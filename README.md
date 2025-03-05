@@ -32,9 +32,13 @@ Modify the `__main__` section to test different inputs.
 ## Example Outputs
 
 23
+
 "theStealthWarrior"
+
 "Ths wbst s fr lsrs LL!"
+
 "Thi1s is2 3a T4est"
+
 [3, 8, 6, 5, 4]
 
 
